@@ -1,0 +1,1 @@
+{"rustc":3217434567693536788,"features":"[\"raw\"]","target":18097767519679069507,"profile":13723178608878936652,"path":2567478082440780326,"deps":[],"local":[{"CheckDepInfo":{"dep_info":"wasm32-unknown-unknown/release/.fingerprint/hashbrown-1ba347597698e300/dep-lib-hashbrown"}}],"rustflags":[],"metadata":6228333144549390726,"config":0,"compile_kind":8104632896995515128}

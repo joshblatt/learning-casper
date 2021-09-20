@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/Users/joshblatt/Projects/learning-casper/erc20/erc20_token/target/wasm32-unknown-unknown/release/build/typenum-a2535ac2dfe3a16d/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/Users/joshblatt/Projects/learning-casper/erc20/erc20_token/target/wasm32-unknown-unknown/release/build/typenum-a2535ac2dfe3a16d/out/op.rs
