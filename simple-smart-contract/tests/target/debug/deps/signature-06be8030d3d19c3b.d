@@ -1,0 +1,11 @@
+/Users/joshblatt/Projects/learning-casper/task1/tests/target/debug/deps/signature-06be8030d3d19c3b.rmeta: /Users/joshblatt/.cargo/registry/src/github.com-1ecc6299db9ec823/signature-1.2.2/src/lib.rs /Users/joshblatt/.cargo/registry/src/github.com-1ecc6299db9ec823/signature-1.2.2/src/error.rs /Users/joshblatt/.cargo/registry/src/github.com-1ecc6299db9ec823/signature-1.2.2/src/signature.rs /Users/joshblatt/.cargo/registry/src/github.com-1ecc6299db9ec823/signature-1.2.2/src/signer.rs /Users/joshblatt/.cargo/registry/src/github.com-1ecc6299db9ec823/signature-1.2.2/src/verifier.rs
+
+/Users/joshblatt/Projects/learning-casper/task1/tests/target/debug/deps/libsignature-06be8030d3d19c3b.rlib: /Users/joshblatt/.cargo/registry/src/github.com-1ecc6299db9ec823/signature-1.2.2/src/lib.rs /Users/joshblatt/.cargo/registry/src/github.com-1ecc6299db9ec823/signature-1.2.2/src/error.rs /Users/joshblatt/.cargo/registry/src/github.com-1ecc6299db9ec823/signature-1.2.2/src/signature.rs /Users/joshblatt/.cargo/registry/src/github.com-1ecc6299db9ec823/signature-1.2.2/src/signer.rs /Users/joshblatt/.cargo/registry/src/github.com-1ecc6299db9ec823/signature-1.2.2/src/verifier.rs
+
+/Users/joshblatt/Projects/learning-casper/task1/tests/target/debug/deps/signature-06be8030d3d19c3b.d: /Users/joshblatt/.cargo/registry/src/github.com-1ecc6299db9ec823/signature-1.2.2/src/lib.rs /Users/joshblatt/.cargo/registry/src/github.com-1ecc6299db9ec823/signature-1.2.2/src/error.rs /Users/joshblatt/.cargo/registry/src/github.com-1ecc6299db9ec823/signature-1.2.2/src/signature.rs /Users/joshblatt/.cargo/registry/src/github.com-1ecc6299db9ec823/signature-1.2.2/src/signer.rs /Users/joshblatt/.cargo/registry/src/github.com-1ecc6299db9ec823/signature-1.2.2/src/verifier.rs
+
+/Users/joshblatt/.cargo/registry/src/github.com-1ecc6299db9ec823/signature-1.2.2/src/lib.rs:
+/Users/joshblatt/.cargo/registry/src/github.com-1ecc6299db9ec823/signature-1.2.2/src/error.rs:
+/Users/joshblatt/.cargo/registry/src/github.com-1ecc6299db9ec823/signature-1.2.2/src/signature.rs:
+/Users/joshblatt/.cargo/registry/src/github.com-1ecc6299db9ec823/signature-1.2.2/src/signer.rs:
+/Users/joshblatt/.cargo/registry/src/github.com-1ecc6299db9ec823/signature-1.2.2/src/verifier.rs:
